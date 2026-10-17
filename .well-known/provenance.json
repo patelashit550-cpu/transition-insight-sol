@@ -1,0 +1,63 @@
+{
+  "version": "1",
+  "generated": "2026-10-17T14:44:48.674Z",
+  "canonical": "https://ashitmilne.xyz",
+  "aliases": [
+    {
+      "type": "sns",
+      "name": "transition-insight.sol"
+    },
+    {
+      "type": "sol.site",
+      "url": "https://transition-insight.sol.site"
+    },
+    {
+      "type": "ens",
+      "name": "ashitpatel.eth"
+    }
+  ],
+  "ipfs": {
+    "cid": null,
+    "gateway": "https://gateway.pinata.cloud",
+    "directory": null,
+    "ipns": null,
+    "ipnsUrl": null
+  },
+  "identity": {
+    "did": "did:pkh:solana:6qr7vtip1h2wD7ktLZQYa7XvnJtjnLLeGFF8a6EPtLKT",
+    "solana": "6qr7vtip1h2wD7ktLZQYa7XvnJtjnLLeGFF8a6EPtLKT",
+    "validator": null,
+    "validatorVoteAccount": null
+  },
+  "documents": {
+    "attestation": "https://ashitmilne.xyz/attestation.json",
+    "auth": "https://ashitmilne.xyz/auth.md",
+    "security": "https://ashitmilne.xyz/.well-known/security.txt",
+    "apiCatalog": "https://ashitmilne.xyz/.well-known/api-catalog",
+    "agentSkills": "https://ashitmilne.xyz/.well-known/agent-skills/index.json",
+    "handwriting": "https://ashitmilne.xyz/identity/handwriting/MANIFEST.json"
+  },
+  "handwriting": {
+    "description": "Ashit Milne's handwriting: original samples (metadata removed), the Ashit Hand font (OFL-1.1), the hand-lettered homepage line and his signature.",
+    "manifest": "https://ashitmilne.xyz/identity/handwriting/MANIFEST.json",
+    "manifestDigest": "sha256:49a8c13aa9386f934c09e2e473de16ba0cd9bbe0294f0fd0dbe66774230d45d0",
+    "readme": "https://ashitmilne.xyz/identity/handwriting/README.md",
+    "font": "https://ashitmilne.xyz/identity/handwriting/font/AshitHand-Regular.woff2",
+    "signature": "https://ashitmilne.xyz/identity/handwriting/signature/ash.svg",
+    "version": "0.1",
+    "fileCount": 13
+  },
+  "pool": {
+    "description": "Published ontology corpus attestation for milling, noding, and transaction-pool agents.",
+    "tier": "global",
+    "manifest": "https://ashitmilne.xyz/attestation.json",
+    "manifestDigest": "sha256:67712a0b6fd22ccf4025b3415e2fda9a898589948d89a95b83f1a8cc6c626905",
+    "signature": null,
+    "entryCount": 20
+  },
+  "solSite": {
+    "domain": "https://transition-insight.sol.site",
+    "status": "pages-live-ipfs-pending",
+    "note": "Live origin is GitHub Pages (ashitmilne.xyz) until SNS IPFS is set. For sol.site: set on-chain IPFS (CID only) plus sol.site CNAME + TXT _dnslink=/ipfs/<CID>. Do not set the URL record to ashitmilne.xyz (Bonfida prefers URL over IPFS)."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "version": "1",
+  "generated": "2026-10-17T14:44:48.464Z",
+  "tier": "global",
+  "manifestDigest": "sha256:67712a0b6fd22ccf4025b3415e2fda9a898589948d89a95b83f1a8cc6c626905",
+  "identity": {
+    "canonical": "https://ashitmilne.xyz",
+    "sns": "transition-insight.sol",
+    "solSite": "https://transition-insight.sol.site",
+    "ens": "ashitpatel.eth",
+    "solana": "6qr7vtip1h2wD7ktLZQYa7XvnJtjnLLeGFF8a6EPtLKT",
+    "did": "did:pkh:solana:6qr7vtip1h2wD7ktLZQYa7XvnJtjnLLeGFF8a6EPtLKT"
+  },
+  "summary": {
+    "totalOntologyFiles": 79,
+    "attestedFiles": 20,
+    "signedFiles": 0
+  },
+  "attested": [
+    {
+      "path": "ontology/governance/Canonical.md",
+      "stage": "published",
+      "title": "Canonical",
+      "author": null,
+      "publishedAt": "2026-07-25T00:00:00.000Z",
+      "slug": "canonical",
+      "series": "Regnum Dei",
+      "sha256": "sha256:9ff0e8691e31c42ebb1502183518196657426624f2eb49e746f582dccaf5e369"
+    },
+    {
+      "path": "ontology/governance/Carta.md",
+      "stage": "published",
+      "title": "Carta",
+      "author": null,
+      "publishedAt": null,
+      "slug": "carta",
+      "series": "regnum-dei",
+      "sha256": "sha256:052efaf3fb259565a0d0a485d0e1c51a2ab0ea2527af22943a0e7ea990efe2a8"
+    },
+    {
+      "path": "ontology/governance/illumination/arete.md",
+      "stage": "published",
+      "title": "Areté",
+      "author": null,
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "slug": "arete",
+      "series": "peridot",
+      "sha256": "sha256:8a346cf17ea1eff1c979d96c1c652428cd4cfd6e8cefc6e637458beed3f87054"
+    },
+    {
+      "path": "ontology/governance/illumination/bias.md",
+      "stage": "published",
+      "title": "Bias",
+      "author": null,
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "slug": "bias",
+      "series": "peridot",
+      "sha256": "sha256:958a5ddb626481df18ad1c41e80b99ef5b203e0c71944e8d75a5e1114067f1a1"
+    },
+    {
+      "path": "ontology/governance/illumination/semper idem.md",
+      "stage": "published",
+      "title": "Semper Idem",
+      "author": null,
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "slug": "semper-idem",
+      "series": "peridot",
+      "sha256": "sha256:e27a1f5a4dc9ff3f23a7eac76009ed6223a5549deb7b52f5b8f831fd3bb8143f"
+    },
+    {
+      "path": "ontology/governance/illumination/social-network.md",
+      "stage": "published",
+      "title": "The Social Network",
+      "author": null,
+      "publishedAt": "2026-07-25T00:00:00.000Z",
+      "slug": "social-network",
+      "series": "peridot",
+      "sha256": "sha256:900104be09d6637d4818156ffdc7a2af81cde0e0dc7128e3aef0f8d41bd76790"
+    },
+    {
+      "path": "ontology/governance/intelligence/deus-en-machina.md",
+      "stage": "published",
+      "title": "Deus En Machina",
+      "author": null,
+      "publishedAt": null,
+      "slug": "deus-en-machina",
+      "series": "sine-qua-non",
+      "sha256": "sha256:0eaa4f27dbb14a584535692edcce6c83508846748a8630de4ffec2a750670466"
+    },
+    {
+      "path": "ontology/me/connexion.md",
+      "stage": "published",
+      "title": "Connexion",
+      "author": null,
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "slug": "connexion",
+      "series": null,
+      "sha256": "sha256:ccd17bcddcb9b11fbac119b3ff60c4730df82190d59ac96d83518bc0be5ebdf9"
+    },
+    {
+      "path": "ontology/me/origins.md",
+      "stage": "published",
+      "title": "Act I: अर्थ — Origins",
+      "author": null,
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "slug": "origins",
+      "series": null,
+      "sha256": "sha256:9f4a814c6349630cfaf95db337a7ecfa73f96a2482d5698c8e88e8e51735a94e"
+    },
+    {
+      "path": "ontology/me/praxis.md",
+      "stage": "published",
+      "title": "Act III: πρᾶξις — Praxis",
+      "author": null,
+      "publishedAt": "2026-07-11T00:00:00.000Z",
+      "slug": "praxis",
+      "series": null,
+      "sha256": "sha256:866874482f41bb5903d20cf9769a726e49b61dfddfe11c47a5bfe7127b465de9"
+    },
+    {
+      "path": "ontology/me/sku.md",
+      "stage": "published",
+      "title": "Career Summary",
+      "author": null,
+      "publishedAt": null,
+      "slug": "sku",
+      "series": null,
+      "sha256": "sha256:ce3ee49b909b5cd2f60f00f949b246ab7dbb3586f4fa9524ddace4aee6d002ef"
+    },
+    {
+      "path": "ontology/me/trials-of-job.md",
+      "stage": "published",
+      "title": "Act II: 気 - Trials of Job",
+      "author": null,
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "slug": "trials-of-job",
+      "series": null,
+      "sha256": "sha256:5e625a5e994778134690c175086171e70c60421e17c4015bea0bc4b31c943c76"
+    },
+    {
+      "path": "ontology/narrative/agentic/argonaut-agentic.md",
+      "stage": "published",
+      "title": "Argonaut Agentic",
+      "author": null,
+      "publishedAt": "2026-10-11T00:00:00.000Z",
+      "slug": "argonaut-agentic",
+      "series": "Argonaut Agentic",
+      "sha256": "sha256:f30e00e2c3811d0e41cf9f4b37347639f1086e567bd11bbcbb9b47ac3146a143"
+    },
+    {
+      "path": "ontology/narrative/audible/3am-eternal.md",
+      "stage": "published",
+      "title": "London Calling",
+      "author": null,
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "slug": "3am-eternal",
+      "series": "3 AM Eternal",
+      "sha256": "sha256:b5f41faaa5947b7de838225ae794bd0d74c8778e57c80b5fd812b6ef15cca97f"
+    },
+    {
+      "path": "ontology/narrative/biography/ashit-milne.md",
+      "stage": "published",
+      "title": "One Step Beyond",
+      "author": null,
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "slug": "ashit-milne",
+      "series": "The Times",
+      "sha256": "sha256:962730bc6d0f332512930f7f836da7107efca6d04dec4170ef507edcf6d423e8"
+    },
+    {
+      "path": "ontology/narrative/biography/ashit-patel.md",
+      "stage": "published",
+      "title": "Macauley's Boy",
+      "author": null,
+      "publishedAt": "2026-06-27T00:00:00.000Z",
+      "slug": "ashit-patel",
+      "series": "The Times",
+      "sha256": "sha256:a9f495399e5a80fd3988065a9b09f64dad7d8cfeea619e6acc72bfb050602a0a"
+    },
+    {
+      "path": "ontology/narrative/biography/ronin.md",
+      "stage": "published",
+      "title": "Ronin",
+      "author": null,
+      "publishedAt": "2025-12-18T00:00:00.000Z",
+      "slug": "ronin",
+      "series": "The Times",
+      "sha256": "sha256:63e68e6d9b12e08b263fea3f17904df960895f16eb3d8138649acc935d5b6e34"
+    },
+    {
+      "path": "ontology/narrative/comment/Tenable.md",
+      "stage": "published",
+      "title": "The Tenable",
+      "author": null,
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "slug": "tenable",
+      "series": "Polite Bureau",
+      "sha256": "sha256:10e43eefaa986aa70f368b5f8cd48239437afbda2f49cd20595a59a3a79cdcb8"
+    },
+    {
+      "path": "ontology/narrative/comment/Transition.md",
+      "stage": "published",
+      "title": "The Transition",
+      "author": null,
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "slug": "transition",
+      "series": "Polite Bureau",
+      "sha256": "sha256:28073eaa9f46e2417307489da434d1de8d42d1da6eff825812dc735be18bde9a"
+    },
+    {
+      "path": "ontology/narrative/comment/canada-at-war.md",
+      "stage": "published",
+      "title": "Tenuous",
+      "author": null,
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "slug": "tenuous",
+      "series": "Polite Bureau",
+      "sha256": "sha256:61c6859ae4817fd610331721ab892686a6f152faaa8348412fe0fdc398bbbb0d"
+    }
+  ],
+  "signature": null
+}
